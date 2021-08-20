@@ -1,1 +1,1 @@
-# sample_progate
+# progate.github.io
